@@ -1,0 +1,181 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Bronx,Co-op City,0,0,0,0,0
+1,Bronx,Norwood,0,0,0,0,0
+2,Bronx,Pelham Parkway,0,0,0,0,0
+3,Bronx,Bedford Park,0,0,0,0,0
+4,Bronx,Fordham,0,0,0,0,0
+5,Bronx,Fordham,0,0,0,0,0
+6,Bronx,High  Bridge,0,0,0,0,0
+7,Bronx,High  Bridge,0,0,0,0,0
+8,Bronx,Melrose,0,0,0,0,0
+9,Bronx,Morrisania,0,0,0,0,0
+10,Bronx,Soundview,0,0,0,0,0
+11,Bronx,Soundview,0,0,0,0,0
+12,Bronx,Parkchester,0,0,0,0,0
+13,Bronx,Parkchester,0,0,0,0,0
+14,Bronx,Van Nest,0,0,0,0,0
+15,Bronx,North Riverdale,0,0,0,0,0
+16,Bronx,Pelham Bay,0,0,0,0,0
+17,Bronx,Pelham Bay,0,0,0,0,0
+18,Bronx,Olinville,0,0,0,0,0
+19,Bronx,Olinville,0,0,0,0,0
+20,Bronx,Pelham Gardens,0,0,0,0,0
+21,Bronx,Concourse,0,0,0,0,0
+22,Bronx,Concourse,0,0,0,0,0
+23,Brooklyn,Bay Ridge,0,0,0,0,0
+24,Brooklyn,Bensonhurst,0,0,0,0,0
+25,Brooklyn,Bensonhurst,0,0,0,0,0
+26,Brooklyn,Greenpoint,0,0,0,0,0
+27,Brooklyn,Sheepshead Bay,0,0,0,0,0
+28,Brooklyn,East Flatbush,0,0,0,0,0
+29,Brooklyn,Windsor Terrace,0,0,0,0,0
+30,Brooklyn,Windsor Terrace,0,0,0,0,0
+31,Brooklyn,Brownsville,0,0,0,0,0
+32,Brooklyn,Brooklyn Heights,0,0,0,0,0
+33,Brooklyn,Brooklyn Heights,0,0,0,0,0
+34,Brooklyn,Carroll Gardens,0,0,0,0,0
+35,Brooklyn,Gowanus,0,0,0,0,0
+36,Brooklyn,Park Slope,0,0,0,0,0
+37,Brooklyn,East New York,0,0,0,0,0
+38,Brooklyn,East New York,0,0,0,0,0
+39,Brooklyn,Marine Park,0,0,0,0,0
+40,Brooklyn,Clinton Hill,0,0,0,0,0
+41,Brooklyn,Downtown,0,0,0,0,0
+42,Brooklyn,Downtown,0,0,0,0,0
+43,Brooklyn,Downtown,0,0,0,0,0
+44,Brooklyn,Downtown,0,0,0,0,0
+45,Brooklyn,Boerum Hill,0,0,0,0,0
+46,Brooklyn,City Line,0,0,0,0,0
+47,Brooklyn,North Side,0,0,0,0,0
+48,Brooklyn,South Side,0,0,0,0,0
+49,Brooklyn,Fort Hamilton,0,0,0,0,0
+50,Brooklyn,Fort Hamilton,0,0,0,0,0
+51,Brooklyn,Fort Hamilton,0,0,0,0,0
+52,Manhattan,Chinatown,0,0,0,0,0
+53,Manhattan,Chinatown,0,0,0,0,0
+54,Manhattan,Chinatown,0,0,0,0,0
+55,Manhattan,Chinatown,0,0,0,0,0
+56,Manhattan,Chinatown,0,0,0,0,0
+57,Manhattan,Chinatown,0,0,0,0,0
+58,Manhattan,Chinatown,0,0,0,0,0
+59,Manhattan,Chinatown,0,0,0,0,0
+60,Manhattan,Chinatown,0,0,0,0,0
+61,Manhattan,Washington Heights,0,0,0,0,0
+62,Manhattan,Washington Heights,0,0,0,0,0
+63,Manhattan,Washington Heights,0,0,0,0,0
+64,Manhattan,Washington Heights,0,0,0,0,0
+65,Manhattan,Inwood,0,0,0,0,0
+66,Manhattan,Inwood,0,0,0,0,0
+67,Manhattan,Manhattanville,0,0,0,0,0
+68,Manhattan,Central Harlem,0,0,0,0,0
+69,Manhattan,Central Harlem,0,0,0,0,0
+70,Manhattan,Upper East Side,0,0,0,0,0
+71,Manhattan,Yorkville,0,0,0,0,0
+72,Manhattan,Lenox Hill,0,0,0,0,0
+73,Manhattan,Lenox Hill,0,0,0,0,0
+74,Manhattan,Upper West Side,0,0,0,0,0
+75,Manhattan,Lincoln Square,0,0,0,0,0
+76,Manhattan,Lincoln Square,0,0,0,0,0
+77,Manhattan,Lincoln Square,0,0,0,0,0
+78,Manhattan,Clinton,0,0,0,0,0
+79,Manhattan,Midtown,0,0,0,0,0
+80,Manhattan,Murray Hill,0,0,0,0,0
+81,Manhattan,Chelsea,0,0,0,0,0
+82,Manhattan,Greenwich Village,0,0,0,0,0
+83,Manhattan,Greenwich Village,0,0,0,0,0
+84,Manhattan,East Village,0,0,0,0,0
+85,Manhattan,East Village,0,0,0,0,0
+86,Manhattan,Lower East Side,0,0,0,0,0
+87,Manhattan,Lower East Side,0,0,0,0,0
+88,Manhattan,Lower East Side,0,0,0,0,0
+89,Manhattan,Tribeca,0,0,0,0,0
+90,Manhattan,Little Italy,0,0,0,0,0
+91,Manhattan,Little Italy,0,0,0,0,0
+92,Manhattan,West Village,0,0,0,0,0
+93,Manhattan,West Village,0,0,0,0,0
+94,Queens,Woodside,0,0,0,0,0
+95,Queens,Elmhurst,0,0,0,0,0
+96,Queens,Elmhurst,0,0,0,0,0
+97,Queens,Howard Beach,0,0,0,0,0
+98,Queens,Howard Beach,0,0,0,0,0
+99,Queens,Corona,0,0,0,0,0
+100,Queens,Forest Hills,0,0,0,0,0
+101,Queens,Kew Gardens,0,0,0,0,0
+102,Queens,Kew Gardens,0,0,0,0,0
+103,Queens,Flushing,0,0,0,0,0
+104,Queens,Flushing,0,0,0,0,0
+105,Queens,Sunnyside,0,0,0,0,0
+106,Queens,Sunnyside,0,0,0,0,0
+107,Queens,Rego Park,0,0,0,0,0
+108,Queens,Rego Park,0,0,0,0,0
+109,Queens,College Point,0,0,0,0,0
+110,Queens,Bayside,0,0,0,0,0
+111,Queens,Little Neck,0,0,0,0,0
+112,Queens,Little Neck,0,0,0,0,0
+113,Queens,Little Neck,0,0,0,0,0
+114,Queens,Little Neck,0,0,0,0,0
+115,Queens,Douglaston,0,0,0,0,0
+116,Queens,Bellerose,0,0,0,0,0
+117,Queens,Fresh Meadows,0,0,0,0,0
+118,Queens,Jamaica Center,0,0,0,0,0
+119,Queens,Oakland Gardens,0,0,0,0,0
+120,Queens,Oakland Gardens,0,0,0,0,0
+121,Queens,Queens Village,0,0,0,0,0
+122,Queens,South Jamaica,0,0,0,0,0
+123,Queens,St. Albans,0,0,0,0,0
+124,Queens,Rochdale,0,0,0,0,0
+125,Queens,Rosedale,0,0,0,0,0
+126,Queens,Far Rockaway,0,0,0,0,0
+127,Queens,Far Rockaway,0,0,0,0,0
+128,Queens,Steinway,0,0,0,0,0
+129,Queens,Beechhurst,0,0,0,0,0
+130,Queens,Rockaway Beach,0,0,0,0,0
+131,Queens,Queensboro Hill,0,0,0,0,0
+132,Queens,Queensboro Hill,0,0,0,0,0
+133,Queens,Queensboro Hill,0,0,0,0,0
+134,Queens,Ravenswood,0,0,0,0,0
+135,Queens,Ravenswood,0,0,0,0,0
+136,Queens,Lefrak City,0,0,0,0,0
+137,Queens,Rockaway Park,0,0,0,0,0
+138,Staten Island,Stapleton,0,0,0,0,0
+139,Staten Island,New Springville,0,0,0,0,0
+140,Staten Island,New Dorp,0,0,0,0,0
+141,Staten Island,Great Kills,0,0,0,0,0
+142,Staten Island,Woodrow,0,0,0,0,0
+143,Brooklyn,Ditmas Park,0,0,0,0,0
+144,Brooklyn,Ditmas Park,0,0,0,0,0
+145,Brooklyn,Ditmas Park,0,0,0,0,0
+146,Brooklyn,Wingate,0,0,0,0,0
+147,Brooklyn,Rugby,0,0,0,0,0
+148,Staten Island,Midland Beach,0,0,0,0,0
+149,Staten Island,Grant City,0,0,0,0,0
+150,Staten Island,Bulls Head,0,0,0,0,0
+151,Staten Island,Bulls Head,0,0,0,0,0
+152,Staten Island,Bulls Head,0,0,0,0,0
+153,Staten Island,Shore Acres,0,0,0,0,0
+154,Staten Island,Clifton,0,0,0,0,0
+155,Staten Island,Elm Park,0,0,0,0,0
+156,Brooklyn,New Lots,0,0,0,0,0
+157,Brooklyn,New Lots,0,0,0,0,0
+158,Brooklyn,Mill Basin,0,0,0,0,0
+159,Brooklyn,Mill Basin,0,0,0,0,0
+160,Queens,Jamaica Hills,0,0,0,0,0
+161,Queens,Astoria Heights,0,0,0,0,0
+162,Bronx,Claremont Village,0,0,0,0,0
+163,Bronx,Claremont Village,0,0,0,0,0
+164,Bronx,Claremont Village,0,0,0,0,0
+165,Bronx,Concourse Village,0,0,0,0,0
+166,Bronx,Mount Eden,0,0,0,0,0
+167,Manhattan,Sutton Place,0,0,0,0,0
+168,Queens,Sunnyside Gardens,0,0,0,0,0
+169,Brooklyn,Weeksville,0,0,0,0,0
+170,Staten Island,Manor Heights,0,0,0,0,0
+171,Brooklyn,Homecrest,0,0,0,0,0
+172,Brooklyn,Homecrest,0,0,0,0,0
+173,Brooklyn,Homecrest,0,0,0,0,0
+174,Queens,Middle Village,0,0,0,0,0
+175,Staten Island,Prince's Bay,0,0,0,0,0
+176,Bronx,Allerton,0,0,0,0,0
+177,Bronx,Kingsbridge Heights,0,0,0,0,0
+178,Bronx,Kingsbridge Heights,0,0,0,0,0
+179,Brooklyn,Erasmus,0,0,0,0,0
